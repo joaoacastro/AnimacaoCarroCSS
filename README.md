@@ -1,5 +1,4 @@
 # AnimacaoCarroCSS
-AnimacaoCarroCSS
 
 <img src="/src/imagens/Captura de tela.png" width="400px">
 
